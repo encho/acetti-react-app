@@ -6,7 +6,7 @@ import "./styles.css";
 function App() {
   return (
     <div className="App">
-      <h1>Hello encho2</h1>
+      <h1>Hello encho 3000</h1>
       <h2>Start editing to see some magic happen!</h2>
     </div>
   );
